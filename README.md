@@ -1,6 +1,6 @@
-" Hi!!
-I am a student pursuing my B.Tech from Anil Neerukonda Institute Of Technology
-To say about my self precisely an aspiring software developer with a curiosity to learn,and update my self with
+" Hi 🙂🙂!!
+I am Thanmai , pursuing my B.Tech from Anil Neerukonda Institute Of Technology and Sciences
+To say about my self precisely an aspiring software developer with a curiosity to learn and update myself with
 new technologies evolving in computer science."
 
 <!---
