@@ -1,4 +1,4 @@
-" Hangman is a game where the computer generates a random word from the list given to it.
+" Hangman is a game where the computer generates a random word from the list given .
 It gives you hint by giving the number of letter . You need to guess the letters in the word.
 Whenever you lose the different stages of hangman would be displayed and if you lost all the chances the game is over.
 "
